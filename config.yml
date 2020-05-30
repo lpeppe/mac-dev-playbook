@@ -1,0 +1,45 @@
+configure_dotfiles: no
+configure_sudoers: no
+configure_terminal: no
+configure_osx: no
+
+homebrew_installed_packages:
+  # - ansible # Installed via Pip.
+  - git
+  - go
+  - elixir
+  - httpie
+  - sqlite
+  - node
+  - nvm
+  - cowsay
+  - pipenv
+  - openssl
+  - pv
+  - wget
+  - tldr
+  - bat
+
+homebrew_cask_apps:
+  - chromedriver
+  - docker
+  - dropbox
+  - google-chrome
+  - brave-browser
+  - jetbrains-toolbox
+  - onedrive
+  - alfred
+  - postman
+  - iterm2
+  - karabiner-elements
+  - keybase
+  - microsoft-word
+  - microsoft-excel
+  - microsoft-powerpoint
+  - private-internet-access
+  - skype
+  - spotify
+  - visual-studio-code
+  - dozer
+  - rectangle
+  - slowquitapps
