@@ -43,3 +43,15 @@ homebrew_cask_apps:
   - dozer
   - rectangle
   - slowquitapps
+
+mas_installed_apps:
+- { id: 497799835, name: "Xcode" }
+- { id: 732710998, name: "Enpass - Password Manager" }
+- { id: 1474276998, name: "HP Smart" }
+- { id: 747648890, name: "Telegram" }
+- { id: 1147396723, name: "WhatsApp Desktop" }
+- { id: 937984704, name: "Amphetamine" }
+- { id: 823766827, name: "OneDrive" }
+
+mas_email: ""
+mas_password: ""
