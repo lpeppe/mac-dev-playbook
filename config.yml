@@ -3,6 +3,11 @@ configure_sudoers: no
 configure_terminal: no
 configure_osx: no
 
+homebrew_taps:
+  - homebrew/core
+  - homebrew/cask
+  - dteoh/sqa
+
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
   - git
@@ -43,6 +48,7 @@ homebrew_cask_apps:
   - dozer
   - rectangle
   - slowquitapps
+  - macs-fan-control
 
 mas_installed_apps:
 - { id: 497799835, name: "Xcode" }
