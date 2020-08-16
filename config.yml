@@ -7,6 +7,7 @@ homebrew_taps:
   - homebrew/core
   - homebrew/cask
   - dteoh/sqa
+  - homebrew/cask-fonts
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
@@ -49,6 +50,7 @@ homebrew_cask_apps:
   - rectangle
   - slowquitapps
   - macs-fan-control
+  - font-victor-mono
 
 mas_installed_apps:
 - { id: 497799835, name: "Xcode" }
