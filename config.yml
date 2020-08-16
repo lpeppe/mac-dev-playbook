@@ -51,6 +51,7 @@ homebrew_cask_apps:
   - slowquitapps
   - macs-fan-control
   - font-victor-mono
+  - font-meslo-lg-nerd-font
 
 mas_installed_apps:
 - { id: 497799835, name: "Xcode" }
