@@ -49,6 +49,7 @@ homebrew_cask_apps:
   - rectangle
   - slowquitapps
   - macs-fan-control
+  - pock
 
 mas_installed_apps:
 - { id: 497799835, name: "Xcode" }
