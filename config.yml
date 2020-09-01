@@ -25,6 +25,7 @@ homebrew_installed_packages:
   - wget
   - tldr
   - bat
+  - htop
 
 homebrew_cask_apps:
   - chromedriver
