@@ -55,6 +55,7 @@ homebrew_cask_apps:
   - pock
   - font-victor-mono
   - font-meslo-lg-nerd-font
+  - typora
 
 mas_installed_apps:
 - { id: 497799835, name: "Xcode" }
