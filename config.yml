@@ -27,6 +27,7 @@ homebrew_installed_packages:
   - bat
   - htop
   - up
+  - fasd
 
 homebrew_cask_apps:
   - chromedriver
