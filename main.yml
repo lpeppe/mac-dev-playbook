@@ -19,10 +19,6 @@
       vars:
         dotfiles_repo: "https://github.com/lpeppe/dotfiles.git"
         dotfiles_files:
-          - .zshrc
-          - .gitignore
-          - .p10k.zsh
-          - .gitignore_global
           - .vimrc
       tags: ['dotfiles']
     - role: geerlingguy.mas

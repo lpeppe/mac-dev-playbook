@@ -12,13 +12,10 @@ homebrew_taps:
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
   - git
-  - go
   - elixir
   - httpie
-  - sqlite
   - node
   - nvm
-  - cowsay
   - pipenv
   - openssl
   - pv
@@ -41,22 +38,15 @@ homebrew_cask_apps:
   - postman
   - iterm2
   - karabiner-elements
-  - keybase
-  - microsoft-word
-  - microsoft-excel
-  - microsoft-powerpoint
   - private-internet-access
-  - skype
   - spotify
   - visual-studio-code
   - dozer
   - rectangle
-  - slowquitapps
   - macs-fan-control
   - pock
   - font-victor-mono
   - font-meslo-lg-nerd-font
-  - typora
 
 mas_installed_apps:
 - { id: 497799835, name: "Xcode" }
