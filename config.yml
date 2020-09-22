@@ -13,8 +13,6 @@ homebrew_installed_packages:
   # - ansible # Installed via Pip.
   - git
   - httpie
-  - node
-  - nvm
   - pipenv
   - openssl
   - pv
