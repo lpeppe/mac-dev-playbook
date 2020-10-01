@@ -46,6 +46,7 @@ homebrew_cask_apps:
   - font-victor-mono
   - font-meslo-lg-nerd-font
   - alt-tab
+  - authy
 
 mas_installed_apps:
 - { id: 497799835, name: "Xcode" }
