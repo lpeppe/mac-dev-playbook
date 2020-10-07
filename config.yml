@@ -8,6 +8,7 @@ homebrew_taps:
   - homebrew/cask
   - dteoh/sqa
   - homebrew/cask-fonts
+  - heroku/brew
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
@@ -23,6 +24,7 @@ homebrew_installed_packages:
   - up
   - fasd
   - gh
+  - heroku
 
 homebrew_cask_apps:
   - chromedriver
